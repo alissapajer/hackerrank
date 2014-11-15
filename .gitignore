@@ -1,0 +1,26 @@
+# sbt
+target/
+
+# Ignore [ce]tags files
+TAGS
+tags
+
+# Vim
+*.sw?
+*~
+
+# Idea
+.idea/
+
+# Mac OS
+.DS_Store
+
+# Eclipse.  Yes, Eclipse.
+.classpath
+.project
+.settings/
+.cache
+
+# emacs
+\#*\#
+.\#*
